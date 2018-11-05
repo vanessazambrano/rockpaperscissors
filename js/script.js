@@ -8,4 +8,6 @@
 
 
 // DOCUMENT READY FUNCTION BELOW
-
+$("").click(function() {
+    $("").text($("#input").val());
+});
