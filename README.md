@@ -18,7 +18,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 
 
 ### HTML and CSS
-- [ ] Add any more HTML elements you will need to the page
+- [x] Add any more HTML elements you will need to the page
 - [ ] Customize your HTML with CSS
 
 #### Wrap
